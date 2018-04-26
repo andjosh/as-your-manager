@@ -15,12 +15,14 @@ As the Director of Engineering, I believe I'm working _for you_ as well as for t
 * Setting context around your work
 * Retaining and growing the talented individuals on our team
 
-Because I am measured by our team’s ability to deliver value to the customer and business, it is in my best interest to provide necessary context around your work and do whatever I can to help you grow as a human, developer, and employee, in that order.
+Because I am measured by our team’s ability to deliver value to the customer and business, it is in my best interest to provide necessary context around your work. Context can mean a variety of things: providing technical guidance, pair programming, clarifying how our work aligns with the business goals. My goal is to do whatever I can to help you grow as a human, developer, and employee, in that order.
 
-You have final say on the work you own. I trust you to gather necessary information to make the best decision to move the company forward. I will always, and gladly, help set context by providing background, resources, and my own opinions. I have a lot of opinions, but this does not mean they are prima facie correct or that by disagreeing you are doing something wrong.
+You have final say on the work you own. I trust you to gather necessary information to make the best decision to move the company forward. I will always, and gladly, help set context by providing background, resources, and my own opinions. I have a lot of opinions, but this does not mean they are correct at face value or that by disagreeing you are doing something wrong.
 
 ### Growth
 I want to provide you with slightly-more-challenging work than you feel capable. I strongly believe in the [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/). It is fine to not understand a particular task. I can help by providing context. It is _not_ okay to believe that you will _never_ be able to understand it.
+
+On my end, I am very happy to spend time clarifying technical concepts to you. My goal is for you to fully understand the tools and approaches we're taking to solve problems. I understand that people have their own ways of learning and I am flexible to help you learn in the way that works best for you.
 
 ## Communication
 My preferred medium for communication (in order of decreasing importance): Call > Text > IM (during work) > Email. Face-to-face in-person (or in-video) is always the highest bandwidth, and I am very amenable to it. I generally answer email once in the morning and maybe once in the evening. When in-person is not available, I prefer getting big ideas over email.
