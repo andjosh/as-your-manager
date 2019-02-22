@@ -45,6 +45,7 @@ I bias toward transparency and candor. You can ask anything. I will work so that
 * There are few things that make me happier than seeing a heated debate, as long as later on that day people still enjoy their time together.
 * It may seem strange, but I will encourage you to debate with me.
 * I will often ask for moment-to-moment feedback that you are following the context as we walk through a problem. This is not a reflection on you, but just on my desire to explain everything fully.
+* I have an amazing capacity to subsist solely on free breakfast for the entire day.
 
 ## One on Ones (1:1s)
 I think these individual chats are incredibly valuable. We will start off with high frequency, long length one on ones. _You_ get to figure out if/when/how you want to taper them off. We probably won't go beyond 2 weeks between each one, though.
