@@ -41,6 +41,7 @@ I bias toward transparency and candor. You can ask anything. I will work so that
 
 ### Personal Quirks
 * I may seem "in the zone" a lot when working. I am always ready to help set context.
+    * Sometimes I wear headphones while working on more complicated features/bugs/ect. This does not change the above statement.
 * I dance a lot at my desk.
 * There are few things that make me happier than seeing a heated debate, as long as later on that day people still enjoy their time together.
 * It may seem strange, but I will encourage you to debate with me.
